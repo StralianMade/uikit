@@ -1,5 +1,6 @@
 {
   "name": "ui-kit",
+  "version": "1.00",
   "dependencies": {
     "semantic-ui": "^2.2.2"
   },
